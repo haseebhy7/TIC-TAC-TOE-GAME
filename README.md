@@ -22,3 +22,8 @@ $ npm install
 $ npm start
 ```
 
+# Visual References
+
+A brief description of what this project looks like 
+![Screenshot](reference1.jpg)
+
